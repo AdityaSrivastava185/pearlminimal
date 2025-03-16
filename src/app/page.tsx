@@ -12,8 +12,8 @@ export default function Home() {
       <div className="max-w-7xl mx-auto pb-16">
         <HeroSection />
         
-        <div className="px-6 md:px-12 pt-16">
-          <div className="w-full bg-pearl-gray rounded-lg p-6 lg:p-8">
+        <div className=" md:px-12 md:pt-16">
+          <div className="w-full bg-pearl-gray rounded-lg px-6 lg:p-8">
             <div className="flex items-center justify-center">
               <Image 
                 src="/heroimage.jpg" 

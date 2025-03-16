@@ -3,7 +3,7 @@ import React from "react";
 const AboutSection = () => {
   return (
     <>
-      <section id="about" className="w-full px-6 md:px-12 py-20 md:py-28 animate-fade-in">
+      <section id="about" className="w-full px-6 md:px-12 md:py-28 animate-fade-in">
         <div className="flex flex-col md:flex-row w-full mx-auto">
           <div className="w-full md:w-1/4 mb-6 md:mb-0">
             <h2 className="text-lg font-medium">Our Mission</h2>
